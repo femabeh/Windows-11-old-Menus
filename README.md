@@ -1,7 +1,7 @@
 # Windows-11-old-Menus
 Here's how to get some of the old menus into Windows 11.
 
-Tested Windows 11 Version: 
+Tested Windows Version: 
 Windows 11 Pro N - 10.0.22000 Build 22000
 
 Uncategorized bar: https://github.com/valinet/ExplorerPatcher
