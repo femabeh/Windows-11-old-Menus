@@ -7,6 +7,7 @@ Windows 11 Pro N - 10.0.22000 Build 22000
 Uncategorized bar: https://github.com/valinet/ExplorerPatcher
 ![grafik](https://user-images.githubusercontent.com/77273892/194728802-06b4d901-b0cd-4427-b544-975a7eb43844.png)
 
+(You must install the Uncategorized Bar, to use the old Start menu!)
 Old start Menu: https://www.alphr.com/classic-start-menu-windows-11/
 ![1](https://user-images.githubusercontent.com/77273892/194728831-ca4ab05b-09ec-40ec-99ba-087eccd9c3e3.png)
 ![2](https://user-images.githubusercontent.com/77273892/194728832-16d9faa2-0602-4522-be18-63cbc64da82e.png)
